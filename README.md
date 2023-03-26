@@ -1,1 +1,1 @@
-https://pollsav.github.io/rsschool-cv/cv
+https://pollsav.github.io/rsschool-cv/

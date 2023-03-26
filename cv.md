@@ -29,3 +29,20 @@ function disemvowel(str) {
     .join('');
 }
 ```
+
+## Courses:
+
+### IT-Shatle:
+
+- HTML
+- JavaScript
+
+## Education:
+
+- Zhodino State Polytechnic College
+  - Electrical Technician
+
+## Languages:
+
+- Russian: native
+- English - A2
